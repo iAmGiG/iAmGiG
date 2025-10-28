@@ -1,4 +1,4 @@
-# Chris R.
+# Chris Regan.
 
 **PhD Student** | Financial Markets & Machine Learning | Atlanta, GA
 

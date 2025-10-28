@@ -1,10 +1,10 @@
-# Chris Regan
+# Chris R.
 
 **PhD Student** | Financial Markets & Machine Learning | Atlanta, GA
 
 ## Current Research
 
-🎓 **PhD Research: LLM-Based Market Microstructure Analysis**
+**PhD Research: LLM-Based Market Microstructure Analysis**
 
 Developing novel **obfuscation testing methodology** to validate Large Language Model understanding of financial market constraints without temporal context.
 
@@ -13,24 +13,24 @@ Developing novel **obfuscation testing methodology** to validate Large Language 
 - Proves LLMs detect dealer hedging constraints from structure alone
 - Full 2024 validation across 242 trading days
 
-📂 **Active Project**: [`gex-llm-patterns`](https://github.com/iAmGiG/gex-llm-patterns)
+**Active Project**: [`gex-llm-patterns`](https://github.com/iAmGiG/gex-llm-patterns)
 
 ---
 
 ## Featured Projects
 
-### 🤖 Algorithmic Trading & Finance
+### Algorithmic Trading & Finance
 - **[AutoGen-TradingSystem](https://github.com/iAmGiG/AutoGen-TradingSystem)** - Production-ready trading platform using Microsoft AutoGen with multi-agent orchestration
 - **[gex-llm-patterns](https://github.com/iAmGiG/gex-llm-patterns)** - PhD research on LLM pattern detection in gamma exposure analysis
 
-### 🏥 Machine Learning in Healthcare
+### Machine Learning in Healthcare
 - **[ImproveBloodPressureMeasurements](https://github.com/iAmGiG/ImproveBloodPressureMeasurements)** ⭐ 9 - ML-based blood pressure measurement accuracy improvement
 
-### 📊 NLP & Data Analysis
+### NLP & Data Analysis
 - **[Transcript-ClusterViz](https://github.com/iAmGiG/Transcript-ClusterViz)** - Conversation clustering and visualization using NLP
 - **[nverma42/Chatbot](https://github.com/nverma42/Chatbot)** - Collaborative chatbot development project
 
-### 🔬 Research & Experimentation
+### Research & Experimentation
 - **[NLPIntro](https://github.com/iAmGiG/NLPIntro)** - Natural language processing exploration
 - **[Network-Compression-Analysis](https://github.com/iAmGiG/Network-Compression-Analysis)** - Fast Wavelet Transform compression for neural networks
 
@@ -50,14 +50,13 @@ Developing novel **obfuscation testing methodology** to validate Large Language 
 
 - 🎓 **PhD** (In Progress) - Financial Markets & Machine Learning
 - 🎓 **M.Sc.** - Computer Science
-- 🎓 **B.Sc.** - Computer Science
+- 🎓 **B.Sc.** - CGDD & SWE
 - ☁️ **AWS Certified Practitioner**
 
 ---
 
 ## Publications & Presentations
 
-- **IEEE LLM-Finance 2025** (Workshop @ IEEE BigData): *Obfuscation Testing for LLM Market Understanding*
 - **PhD Symposium 2025**: *Testing LLM Structural Reasoning in Complex Systems*
 
 ---

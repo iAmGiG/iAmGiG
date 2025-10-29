@@ -8,7 +8,7 @@
 
 Developing novel **obfuscation testing methodology** to validate Large Language Model understanding of financial market constraints without temporal context.
 
-**Paper #1** (IEEE LLM-Finance 2025): *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
+**Paper #1**: *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
 - 71.5% detection rate, 91.2% predictive accuracy
 - Proves LLMs detect dealer hedging constraints from structure alone
 - Full 2024 validation across 242 trading days
@@ -33,6 +33,7 @@ Developing novel **obfuscation testing methodology** to validate Large Language 
 ### Research & Experimentation
 - **[NLPIntro](https://github.com/iAmGiG/NLPIntro)** - Natural language processing exploration
 - **[Network-Compression-Analysis](https://github.com/iAmGiG/Network-Compression-Analysis)** - Fast Wavelet Transform compression for neural networks
+- **[BotNet Traffic](https://github.com/iAmGiG/BotnetTrafficAnalysisFederaedLearning)** - Botnet Traffic detection
 
 ---
 

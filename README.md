@@ -9,9 +9,16 @@
 Developing novel **obfuscation testing methodology** to validate Large Language Model understanding of financial market constraints without temporal context.
 
 **Paper #1**: *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
+- ✅ **Accepted**: IEEE BigData 2025 - 2nd International Workshop on Large Language Models for Finance
 - 71.5% detection rate, 91.2% predictive accuracy
 - Proves LLMs detect dealer hedging constraints from structure alone
 - Full 2024 validation across 242 trading days
+
+**Paper #2** (Current): *"Market Regime Classification for Structural Pattern Detection"*
+- Regime-dependent performance analysis: why detection ≠ profitability
+- Classification framework for pattern exploitability
+
+**Future Work**: Per-strike gamma analysis (Paper #3), graph-theoretic constraint networks (Paper #4)
 
 **Active Project**: [`gex-llm-patterns`](https://github.com/iAmGiG/gex-llm-patterns)
 
@@ -58,6 +65,8 @@ Developing novel **obfuscation testing methodology** to validate Large Language 
 
 ## Publications & Presentations
 
+- **IEEE BigData 2025** - 2nd International Workshop on Large Language Models for Finance (December 8-11, Macau, China)
+  - *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
 - **PhD Symposium 2025**: *Testing LLM Structural Reasoning in Complex Systems*
 
 ---

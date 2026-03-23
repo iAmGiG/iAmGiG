@@ -1,46 +1,48 @@
-# Chris Regan.
+# Chris Regan
 
 **PhD Student** | Financial Markets & Machine Learning | Atlanta, GA
 
 ## Current Research
 
-**PhD Research: LLM-Based Market Microstructure Analysis**
+### PhD Dissertation: Adversarial Market Manipulation Detection
 
-Developing novel **obfuscation testing methodology** to validate Large Language Model understanding of financial market constraints without temporal context.
+Two complementary research threads applying ML to financial market security:
 
-**Paper #1**: *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
-- ✅ **Accepted**: IEEE BigData 2025 - 2nd International Workshop on Large Language Models for Finance
-- 71.5% detection rate, 91.2% predictive accuracy
-- Proves LLMs detect dealer hedging constraints from structure alone
-- Full 2024 validation across 242 trading days
+**Thread 1: Graph-Based Detection** — [`Gamma-Sieve`](https://github.com/iAmGiG/Gamma-Sieve)
+- Heterophilic GNNs (CARE-GNN, TFE-GNN) detecting fragmented manipulation in options-equity markets
+- Novel graph schema: 4 node types, 10 edge types for financial transaction networks
+- Key finding: graph topology detects multi-account coordination (+5.6pp AUC over LSTM), but attack-type-dependent — ensemble required
+- Domain-shift calibration: 42.5% FPR on real data → 2.4% after fragmentation calibration
+- ESWA paper in preparation
 
-**Paper #2** (Current): *"Market Regime Classification for Structural Pattern Detection"*
-- Regime-dependent performance analysis: why detection ≠ profitability
-- Classification framework for pattern exploitability
-
-**Future Work**: Per-strike gamma analysis (Paper #3), graph-theoretic constraint networks (Paper #4)
-
-**Active Project**: [`gex-llm-patterns`](https://github.com/iAmGiG/gex-llm-patterns)
+**Thread 2: LLM Market Understanding** — [`gex-llm-patterns`](https://github.com/iAmGiG/gex-llm-patterns)
+- Obfuscation testing methodology for validating LLM understanding of dealer hedging constraints
+- **Paper #1**: *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
+  - ✅ **Accepted**: IEEE BigData 2025 — 2nd International Workshop on Large Language Models for Finance
+  - 71.5% detection rate, 91.2% predictive accuracy
+- **Paper #2** (Current): *"Market Regime Classification for Structural Pattern Detection"*
 
 ---
 
 ## Featured Projects
 
-### Algorithmic Trading & Finance
-- **[AutoGen-TradingSystem](https://github.com/iAmGiG/AutoGen-TradingSystem)** - Production-ready trading platform using Microsoft AutoGen with multi-agent orchestration
-- **[gex-llm-patterns](https://github.com/iAmGiG/gex-llm-patterns)** - PhD research on LLM pattern detection in gamma exposure analysis
+### Financial Markets & ML
+- **[Gamma-Sieve](https://github.com/iAmGiG/Gamma-Sieve)** — Heterophilic GNN evaluation for adversarial manipulation detection (PhD dissertation)
+- **[gex-llm-patterns](https://github.com/iAmGiG/gex-llm-patterns)** — LLM pattern detection in gamma exposure analysis (IEEE BigData 2025)
+- **[GexVisor](https://github.com/iAmGiG/GexVisor)** — Financial visualization platform for GEX analysis and research tools
+- **[AutoGen-TradingSystem](https://github.com/iAmGiG/AutoGen-TradingSystem)** — Trading platform using Microsoft AutoGen with multi-agent orchestration
 
 ### Machine Learning in Healthcare
-- **[ImproveBloodPressureMeasurements](https://github.com/iAmGiG/ImproveBloodPressureMeasurements)** ⭐ 9 - ML-based blood pressure measurement accuracy improvement
+- **[ImproveBloodPressureMeasurements](https://github.com/iAmGiG/ImproveBloodPressureMeasurements)** ⭐ 9 — ML-based blood pressure measurement accuracy improvement
 
 ### NLP & Data Analysis
-- **[Transcript-ClusterViz](https://github.com/iAmGiG/Transcript-ClusterViz)** - Conversation clustering and visualization using NLP
-- **[nverma42/Chatbot](https://github.com/nverma42/Chatbot)** - Collaborative chatbot development project
+- **[Transcript-ClusterViz](https://github.com/iAmGiG/Transcript-ClusterViz)** — Conversation clustering and visualization using NLP
+- **[nverma42/Chatbot](https://github.com/nverma42/Chatbot)** — Collaborative chatbot development project
 
 ### Research & Experimentation
-- **[NLPIntro](https://github.com/iAmGiG/NLPIntro)** - Natural language processing exploration
-- **[Network-Compression-Analysis](https://github.com/iAmGiG/Network-Compression-Analysis)** - Fast Wavelet Transform compression for neural networks
-- **[BotNet Traffic](https://github.com/iAmGiG/BotnetTrafficAnalysisFederaedLearning)** - Botnet Traffic detection
+- **[NLPIntro](https://github.com/iAmGiG/NLPIntro)** — Natural language processing exploration
+- **[Network-Compression-Analysis](https://github.com/iAmGiG/Network-Compression-Analysis)** — Fast Wavelet Transform compression for neural networks
+- **[BotNet Traffic](https://github.com/iAmGiG/BotnetTrafficAnalysisFederaedLearning)** — Botnet traffic detection via federated learning
 
 ---
 
@@ -50,24 +52,25 @@ Developing novel **obfuscation testing methodology** to validate Large Language 
 
 **Also Proficient**: C#, C++, TypeScript, JavaScript, Java
 
-**Domains**: LLMs, Algorithmic Trading, Market Microstructure, NLP, Healthcare ML, Signal Processing
+**Domains**: GNNs, LLMs, Algorithmic Trading, Market Microstructure, NLP, Healthcare ML, Signal Processing
 
 ---
 
 ## Education & Credentials
 
-- 🎓 **PhD** (In Progress) - Financial Markets & Machine Learning
-- 🎓 **M.Sc.** - Computer Science
-- 🎓 **B.Sc.** - CGDD & SWE
+- 🎓 **PhD** (In Progress) — Financial Markets & Machine Learning
+- 🎓 **M.Sc.** — Computer Science
+- 🎓 **B.Sc.** — CGDD & SWE
 - ☁️ **AWS Certified Practitioner**
 
 ---
 
 ## Publications & Presentations
 
-- **IEEE BigData 2025** - 2nd International Workshop on Large Language Models for Finance (December 8-11, Macau, China)
+- **IEEE BigData 2025** — 2nd International Workshop on Large Language Models for Finance (December 8-11, Macau, China)
   - *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
-- **PhD Symposium 2025**: *Testing LLM Structural Reasoning in Complex Systems*
+- **ESWA** (In Preparation) — *"Gamma-Sieve: Heterophilic GNN Evaluation for Adversarial Market Manipulation Detection"*
+- **PhD Symposium 2025** — *Testing LLM Structural Reasoning in Complex Systems*
 
 ---
 
@@ -80,6 +83,6 @@ Developing novel **obfuscation testing methodology** to validate Large Language 
 
 <div align="center">
 
-*Validating AI understanding of complex systems through rigorous methodology*
+*Applying ML to financial market security — from graph topology to language models*
 
 </div>

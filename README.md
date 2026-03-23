@@ -18,9 +18,12 @@ Two complementary research threads applying ML to financial market security:
 **Thread 2: LLM Market Understanding** — [`gex-llm-patterns`](https://github.com/iAmGiG/gex-llm-patterns)
 - Obfuscation testing methodology for validating LLM understanding of dealer hedging constraints
 - **Paper #1**: *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
-  - ✅ **Accepted**: IEEE BigData 2025 — 2nd International Workshop on Large Language Models for Finance
+  - ✅ **Published**: IEEE BigData 2025 — 2nd International Workshop on Large Language Models for Finance
   - 71.5% detection rate, 91.2% predictive accuracy
-- **Paper #2** (Current): *"Market Regime Classification for Structural Pattern Detection"*
+- **Paper #2**: *"Validating LLM Structural Reasoning: Detecting Persistent Market Regimes Through Temporal Obfuscation"*
+  - 📄 **Under Review**: Digital Finance (Springer) — submitted March 2026
+  - 📄 **Under Review**: AIAI 2026 (IFIP AICT, Springer) — submitted March 2026
+  - 81.2% regime detection, 2,221 evaluations (1,412 real + 809 synthetic), 0% false positives on controls
 
 ---
 
@@ -28,7 +31,7 @@ Two complementary research threads applying ML to financial market security:
 
 ### Financial Markets & ML
 - **[Gamma-Sieve](https://github.com/iAmGiG/Gamma-Sieve)** — Heterophilic GNN evaluation for adversarial manipulation detection (PhD dissertation)
-- **[gex-llm-patterns](https://github.com/iAmGiG/gex-llm-patterns)** — LLM pattern detection in gamma exposure analysis (IEEE BigData 2025)
+- **[gex-llm-patterns](https://github.com/iAmGiG/gex-llm-patterns)** — LLM pattern detection in gamma exposure analysis (IEEE BigData 2025, Digital Finance under review)
 - **[GexVisor](https://github.com/iAmGiG/GexVisor)** — Financial visualization platform for GEX analysis and research tools
 - **[AutoGen-TradingSystem](https://github.com/iAmGiG/AutoGen-TradingSystem)** — Trading platform using Microsoft AutoGen with multi-agent orchestration
 
@@ -67,6 +70,10 @@ Two complementary research threads applying ML to financial market security:
 
 ## Publications & Presentations
 
+- **Digital Finance (Springer)** (Under Review, March 2026)
+  - *"Validating LLM Structural Reasoning: Detecting Persistent Market Regimes Through Temporal Obfuscation"*
+- **AIAI 2026** (Under Review, March 2026) — IFIP International Conference on Artificial Intelligence Applications and Innovations
+  - *"Validating LLM Structural Reasoning: Detecting Persistent Market Regimes Through Temporal Obfuscation"*
 - **IEEE BigData 2025** — 2nd International Workshop on Large Language Models for Finance (December 8-11, Macau, China)
   - *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
 - **ESWA** (In Preparation) — *"Gamma-Sieve: Heterophilic GNN Evaluation for Adversarial Market Manipulation Detection"*

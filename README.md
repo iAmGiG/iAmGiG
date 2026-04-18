@@ -22,7 +22,6 @@ Two complementary research threads applying ML to financial market security:
   - 71.5% detection rate, 91.2% predictive accuracy (242 trading days, 726 evaluations)
 - **Paper #2**: *"Validating LLM Structural Reasoning: Detecting Persistent Market Regimes Through Temporal Obfuscation"*
   - ✅ **Accepted**: AIAI 2026 (IFIP, Springer) — camera-ready May 2026
-  - 📄 **Under Review**: Journal of Risk and Financial Management (JRFM, MDPI) — submitted March 2026
   - 81.2% regime detection 2024 vs 12.1% 2020 (69.1pp separation, φ = 0.672, p < 0.0001), 2,221 evaluations, 0% false positives on controls
 
 ---
@@ -31,7 +30,7 @@ Two complementary research threads applying ML to financial market security:
 
 ### Financial Markets & ML
 - **[Gamma-Sieve](https://github.com/iAmGiG/Gamma-Sieve)** — Heterophilic GNN evaluation for adversarial manipulation detection (PhD dissertation)
-- **[gex-llm-patterns](https://github.com/iAmGiG/gex-llm-patterns)** — LLM pattern detection in gamma exposure analysis (IEEE BigData 2025, AIAI 2026 accepted, JRFM under review)
+- **[gex-llm-patterns](https://github.com/iAmGiG/gex-llm-patterns)** — LLM pattern detection in gamma exposure analysis (IEEE BigData 2025, AIAI 2026 accepted)
 - **[AutoTrader-AgentEdge](https://github.com/iAmGiG/AutoTrader-AgentEdge)** — Multi-agent trading platform with GEX regime integration
 - **[GexVisor](https://github.com/iAmGiG/GexVisor)** — Financial visualization platform for GEX analysis and research tools
 
@@ -71,8 +70,6 @@ Two complementary research threads applying ML to financial market security:
 ## Publications & Presentations
 
 - **AIAI 2026** (Accepted, camera-ready May 2026) — IFIP International Conference on Artificial Intelligence Applications and Innovations
-  - *"Validating LLM Structural Reasoning: Detecting Persistent Market Regimes Through Temporal Obfuscation"*
-- **Journal of Risk and Financial Management (JRFM, MDPI)** (Under Review, submitted March 2026)
   - *"Validating LLM Structural Reasoning: Detecting Persistent Market Regimes Through Temporal Obfuscation"*
 - **IEEE BigData 2025** — 2nd International Workshop on Large Language Models for Finance (December 2025, Macau, China)
   - *"Validating Large Language Model Understanding of Market Microstructure Through Obfuscation Testing"*
